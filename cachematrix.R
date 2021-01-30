@@ -1,5 +1,5 @@
 ## Basically, the functions used in this program will cache the inverse of
-## provided matrices. 
+## provided matrices.
 
 makeCacheMatrix <- function(x = matrix()) {
   invrs <- NULL
